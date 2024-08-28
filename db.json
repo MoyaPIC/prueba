@@ -1,10 +1,28 @@
 {
+  
+ "datalogger_1" : {
+
   "tag_list_1": "A345,1234,1829,BB45,AA62,4567,A78B,8909,BBCA,1245",
-  "tag_list_2": "AFF5,1254,1879,BB95,AA02,45F7,A7FB,8956,BBAA,1255",
+  "tag_list_2": "AFF5,1254,1879,BB95,AA02,45F7,A7FB,8956,BBAA,1225",
   "tag_list_3": "FF34,1534,6729,BB85,BA62,4D67,DD8B,AA09,FFCA,FF45",
   "tag_list_4": "AA45,AA34,AA29,AA45,AA6B,456B,A7BB,89B9,BFFA,1AA5",
+  "tag_list_5": "1745,1734,1729,17AA,566B,8999,2222,3333,6F6A,AABB",
+  "tag_list_6": "BB00,AA00,0029,A345,AA61,496B,A7B9,89C9,BFCA,1AC5",
+  "tag_list_7": "AAB5,AD34,AD29,AD45,AADB,D56B,A7DB,F9B9,BDFA,1DA5",
+  "tag_list_8": "AA45,AA12,1229,8F45,126B,126B,12BB,12B9,12FA,12A5",
+  "tag_list_9": "9945,9934,9929,AF59,AA69,4560,A7B0,89B0,BFF0,1AA0",
+  "tag_list_10": "AF4F,FA3F,FA2F,AF65,FA6B,458A,A7BA,89B9,BFFA,15A5",
+  
   "configuracion": {
+    "logger_name": "DATA_01",
+    "logger_serial": "DATA_01_E455",
     "SSID1": "wifi_config2",
-    "SSID2": "wifi_config3"
+    "SSID2": "wifi_config3",
+    "SSID3": "wifi_config3",
+    "PASS1": "password1",
+    "PASS2": "password2",
+    "PASS3": "password3",
   }
 }
+
+  }
