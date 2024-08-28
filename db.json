@@ -1,7 +1,10 @@
 {
-  "nombre": "A345,1234,1829,BB45,AA62,4567,A78B,8909,BBCA,1245",
-  "redesSociales": {
-    "LinkedIn": "https://www.linkedin.com/in/juanperez",
-    "Twitter": "https://twitter.com/juanperez"
+  "tag_list_1": "A345,1234,1829,BB45,AA62,4567,A78B,8909,BBCA,1245",
+  "tag_list_2": "AFF5,1254,1879,BB95,AA02,45F7,A7FB,8956,BBAA,1255",
+  "tag_list_3": "FF34,1534,6729,BB85,BA62,4D67,DD8B,AA09,FFCA,FF45",
+  "tag_list_4": "AA45,AA34,AA29,AA45,AA6B,456B,A7BB,89B9,BFFA,1AA5",
+  "configuracion": {
+    "SSID1": "wifi_config2",
+    "SSID2": "wifi_config3"
   }
 }
