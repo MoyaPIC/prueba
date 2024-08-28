@@ -1,0 +1,16 @@
+{
+  "nombre": "Juan Pérez",
+  "email": "juan.perez@example.com",
+  "teléfono": "+34 600 123 456",
+  "dirección": {
+    "calle": "Calle Falsa 123",
+    "ciudad": "Madrid",
+    "provincia": "Madrid",
+    "códigoPostal": "28013",
+    "país": "España"
+  },
+  "redesSociales": {
+    "LinkedIn": "https://www.linkedin.com/in/juanperez",
+    "Twitter": "https://twitter.com/juanperez"
+  }
+}
